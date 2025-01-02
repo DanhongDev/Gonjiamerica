@@ -1,0 +1,35 @@
+# Build and temp files
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+Build/
+Content/Assets/
+Content/Fab/
+Content/StarterContent/
+Content/MAEOakForest/
+
+# Visual Studio files
+.vscode/
+.vs/
+*.sln
+*.sdf
+*.suo
+*.user
+*.VC.db
+*.opendb
+
+# Logs
+*.log
+*.log-*
+
+# Ignore generated files
+*.o
+*.obj
+*.PDB
+*.exe
+*.dll
+
+# Ignore temporary files
+*.tmp
+*.temp
