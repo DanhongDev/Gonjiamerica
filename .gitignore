@@ -4,10 +4,9 @@ Intermediate/
 Saved/
 DerivedDataCache/
 Build/
-Content/Assets/
-Content/Fab/
-Content/StarterContent/
-Content/MAEOakForest/
+!Content/
+Content/*
+!Content/Gonjiamerica/
 
 # Visual Studio files
 .vscode/
