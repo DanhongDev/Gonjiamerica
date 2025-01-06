@@ -4,9 +4,12 @@ Intermediate/
 Saved/
 DerivedDataCache/
 Build/
+
 !Content/
 Content/*
 !Content/Gonjiamerica/
+
+Content/Assets/
 
 # Visual Studio files
 .vscode/
