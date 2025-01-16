@@ -14,7 +14,6 @@ Content/Assets/
 # Visual Studio files
 .vscode/
 .vs/
-*.sln
 *.sdf
 *.suo
 *.user
