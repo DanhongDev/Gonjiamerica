@@ -26,10 +26,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "MotionTrajectory",
-			"Enabled": true
-		},
-		{
 			"Name": "AnimationWarping",
 			"Enabled": true
 		},
@@ -51,6 +47,10 @@
 		},
 		{
 			"Name": "DeformerGraph",
+			"Enabled": true
+		},
+		{
+			"Name": "MotionTrajectory",
 			"Enabled": true
 		}
 	]
